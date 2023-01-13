@@ -26,6 +26,8 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MilesiSimone&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=MilesiSimone&theme=dark)](https://git.io/streak-stats)
+
 
 
 
