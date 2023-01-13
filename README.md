@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+   HI THERE 👋
+</div>
 
 ---
 
@@ -28,6 +30,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MilesiSimone&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilesiSimone&layout=compact&theme=vision friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
